@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siridona
-- 👀 I’m interested in Artificial intelligence 
-- 🌱 I’m currently learning Coding languages 
-- 💞️ I’m good at pytho,HTML,CSS...
+- 👀 I’m doing my major in Artificial intelligence & Machine Learning 
+- 🌱 I’m currently working on many Coding languages 
+- 💞️ I’m good at pytho,HTML,CSS,ML,...
 - ⚡ Fun fact: ...
 
 <!---
